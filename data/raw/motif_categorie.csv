@@ -1,0 +1,201 @@
+﻿Motif;Catégorie_motif;Description_longue
+abdominalcramping;Digestif;Crampes abdominales
+abdominaldistention;Digestif;Distension abdominale
+abdominalpain;Digestif;Douleur abdominale
+abdominalpainpregnant;Gynécologique;Douleur abdominale chez la femme enceinte
+abnormallab;Général;Anomalie biologique
+abscess;Infectieux;Abcès
+addictionproblem;Psychiatrique;Problème d’addiction
+agitation;Psychiatrique;Agitation
+alcoholintoxication;Intoxication;Intoxication alcoolique
+alcoholproblem;Psychiatrique;Problème d’alcool
+allergicreaction;Allergique;Réaction allergique
+alteredmentalstatus;Neurologique;État mental altéré
+animalbite;Traumatologique/Infectieux;Morsure d’animal
+ankleinjury;Traumatologique;Traumatisme de la cheville
+anklepain;Ostéo-articulaire;Douleur de la cheville
+anxiety;Psychiatrique;Anxiété
+arminjury;Traumatologique;Traumatisme du bras
+armpain;Ostéo-articulaire;Douleur du bras
+armswelling;Ostéo-articulaire;Gonflement du bras
+assaultvictim;Traumatologique;Victime d’agression
+asthma;Respiratoire;Asthme
+backpain;Ostéo-articulaire;Douleur dorsale
+bleeding_bruising;Vasculaire/Sang;Hémorragie ou ecchymose
+blurredvision;Ophtalmologique;Vision trouble
+bodyfluidexposure;Infectieux;Contact avec liquides biologiques
+breastpain;Divers/Digestif;Douleur mammaire
+breathingdifficulty;Respiratoire;Difficulté respiratoire
+breathingproblem;Respiratoire;Problème respiratoire
+burn;Traumatologique;Brûlure
+cardiacarrest;Cardiaque;Arrêt cardiaque
+cellulitis;Infectieux;Cellulite
+chestpain;Cardiaque;Douleur thoracique
+chesttightness;Cardiaque/Otésio;Oppression thoracique
+chills;Infectieux/Virologie;Frissons (syndrome infectieux)
+coldlikesymptoms;Infectieux/Rhinologique;Syndrome grippal
+confusion;Neurologique;Confusion mentale
+conjunctivitis;Ophtalmologique;Conjonctivite
+constipation;Digestif;Constipation
+cough;Respiratoire;Toux
+cyst;Digestif/Dermatologique;Kyste
+decreasedbloodsugar_symptomatic;Métabolique;Hypoglycémie symptomatique
+dehydration;Métabolique;Déshydratation
+dentalpain;Dentaire;Douleur dentaire
+depression;Psychiatrique;Symptômes dépressifs
+detoxevaluation;Psychiatrique;Évaluation de sevrage
+diarrhea;Digestif;Diarrhée
+dizziness;Neurologique;Sensation de vertige
+drug_alcoholassessment;Psychiatrique;Bilan toxicologique
+drugproblem;Psychiatrique;Problème de toxicomanie
+dyspnea;Respiratoire;Essoufflement (dyspnée)
+dysuria;Urologique;Dysurie (douleur ou difficulté à uriner)
+earpain;ORL;Douleur auriculaire
+earproblem;ORL;Problème de l'oreille
+edema;Vasculaire/Général;Œdème
+elbowpain;Ostéo-articulaire;Douleur du coude
+elevatedbloodsugar_nosymptoms;Métabolique;Hyperglycémie sans symptômes
+elevatedbloodsugar_symptomatic;Métabolique;Hyperglycémie symptomatique
+emesis;Digestif;Vomissements
+epigastricpain;Digestif;Douleur épigastrique
+epistaxis;ORL;Épistaxis (saignement de nez)
+exposuretostd;Infectieux;Exposition à une IST/MST
+extremitylaceration;Traumatologique;Plaie d’un membre
+extremityweakness;Neurologique;Faiblesse d’un membre
+eyeinjury;Ophtalmologique;Traumatisme oculaire
+eyepain;Ophtalmologique;Douleur oculaire
+eyeproblem;Ophtalmologique;Problème ophtalmologique
+eyeredness;Ophtalmologique;Rougheur oculaire
+facialinjury;Traumatologique;Traumatisme facial
+faciallaceration;Traumatologique;Plaie du visage
+facialpain;ORL/Neurologique;Douleur du visage
+facialswelling;Traumatique/Allergique;Gonflement du visage
+fall;Traumatologique;Chute
+fall_65;Traumatologique;Chute chez personne de 65 ans ou plus
+fatigue;Général;Fatigue
+femaleguproblem;Gynécologique;Problème gynécologique
+fever;Infectieux;Fièvre
+fever_75yearsorolder;Infectieux;Fièvre chez le sujet âgé (75+)
+fever_9weeksto74years;Infectieux;Fièvre entre 9 semaines et 74 ans
+feverimmunocompromised;Infectieux;Fièvre chez l’immunodéprimé
+fingerinjury;Traumatologique;Traumatisme du doigt
+fingerpain;Ostéo-articulaire;Douleur du doigt
+fingerswelling;Ostéo-articulaire;Gonflement du doigt
+flankpain;Ostéo-articulaire/Urologique/Digestif;Douleur du flanc
+follow_upcellulitis;Infectieux;Suivi de cellulite
+footinjury;Traumatologique;Traumatisme du pied
+footpain;Ostéo-articulaire;Douleur du pied
+footswelling;Ostéo-articulaire;Gonflement du pied
+foreignbodyineye;Ophtalmologique;Corps étranger dans l'œil
+fulltrauma;Traumatologique;Polytraumatisme
+generalizedbodyaches;Général;Douleurs musculaires diffuses
+gibleeding;Digestif;Hémorragie digestive (saignement digestif)
+giproblem;Digestif;Problème digestif
+groinpain;Ostéo-articulaire/Urologique;Douleur de l'aine
+hallucinations;Psychiatrie;Hallucinations
+handinjury;Traumatologique;Traumatisme de la main
+handpain;Ostéo-articulaire;Douleur de la main
+headache;Neurologique;Céphalée (mal de tête)
+headache_newonsetornewsymptoms;Neurologique;Céphalée récente ou nouveaux symptômes
+headache_recurrentorknowndxmigraines;Neurologique;Migraine connue ou récidivante
+headachere_evaluation;Neurologique;Évaluation d'une céphalée
+headinjury;Traumatologique;Traumatisme crânien
+headlaceration;Traumatologique;Plaie du cuir chevelu
+hematuria;Urologique;Hématurie (sang dans les urines)
+hemoptysis;Respiratoire;Hémoptysie (crachat de sang)
+hippain;Ostéo-articulaire;Douleur de la hanche
+homicidal;Psychiatrie;Idées ou comportement homicidaire
+hyperglycemia;Métabolique;Hyperglycémie
+hypertension;Cardiaque;Hypertension artérielle
+hypotension;Cardiaque/Hémodynamique;Hypotension artérielle
+influenza;Infectieux;Grippe (infection grippale)
+ingestion;Intoxication;Ingestion toxique
+insectbite;Traumatologique/Allergique;Piqûre d’insecte
+irregularheartbeat;Cardiaque;Trouble du rythme cardiaque
+jawpain;Ostéo-articulaire/ORL;Douleur de la mâchoire
+jointswelling;Ostéo-articulaire;Gonflement articulaire
+kneeinjury;Traumatologique;Traumatisme du genou
+kneepain;Ostéo-articulaire;Douleur du genou
+laceration;Traumatologique;Plaie (laceration)
+leginjury;Traumatologique;Traumatisme de la jambe
+legpain;Ostéo-articulaire;Douleur de la jambe
+legswelling;Ostéo-articulaire;Gonflement de la jambe
+lethargy;Général/Létalité;Léthargie
+lossofconsciousness;Neurologique;Perte de connaissance
+maleguproblem;Urologique;Problème uro-génital masculin
+mass;Général;Tumeur ou masse
+medicalproblem;Général;Problème médical
+medicalscreening;Général;Évaluation médicale
+medicationproblem;Médicamenteux;Problème lié à un médicament
+medicationrefill;Administratif;Renouvellement d’ordonnance
+migraine;Neurologique;Migraine
+modifiedtrauma;Traumatologique;Trauma grave (filtré)
+motorcyclecrash;Traumatologique;Accident de moto
+motorvehiclecrash;Traumatologique;Accident de voiture
+multiplefalls;Traumatologique;Chutes multiples
+nasalcongestion;ORL;Obstruction nasale
+nausea;Digestif;Nausées
+nearsyncope;Neurologique;Près de la syncope / malaise
+neckpain;Ostéo-articulaire;Douleur cervicale
+neurologicproblem;Neurologique;Problème neurologique
+numbness;Neurologique;Engourdissement
+oralswelling;ORL;Gonflement buccal
+otalgia;ORL;Douleur de l'oreille
+other;Autre;Autre motif
+overdose_accidental;Intoxication;Surdosage accidentel
+overdose_intentional;Intoxication;Surdosage intentionnel
+pain;Général;Douleur (sans précision)
+palpitations;Cardiaque;Palpitations
+panicattack;Psychiatrie;Attaque de panique
+pelvicpain;Gynécologique/Urologique;Douleur pelvienne
+poisoning;Intoxication;Empoisonnement / intoxication
+post_opproblem;Chirurgical;Problème postopératoire
+psychiatricevaluation;Psychiatrie;Évaluation psychiatrique
+psychoticsymptoms;Psychiatrie;Syndrome psychotique / symptômes psychotiques
+rapidheartrate;Cardiaque;Fréquence cardiaque rapide (tachycardie)
+rash;Dermatologique;Éruption cutanée
+rectalbleeding;Digestif;Saignement rectal
+rectalpain;Digestif;Douleur rectale
+respiratorydistress;Respiratoire;Détresse respiratoire
+ribinjury;Traumatologique;Traumatisme costal (côte)
+ribpain;Ostéo-articulaire;Douleur costale (côte)
+seizure_newonset;Neurologique;Première crise d’épilepsie
+seizure_priorhxof;Neurologique;Crise d’épilepsie chez un patient épileptique connu
+seizures;Neurologique;Crises d’épilepsie
+shortnessofbreath;Respiratoire;Essoufflement
+shoulderinjury;Traumatologique;Traumatisme de l’épaule
+shoulderpain;Ostéo-articulaire;Douleur de l’épaule
+sicklecellpain;Hématologique;Douleurs drépanocytaires
+sinusproblem;ORL;Problème des sinus
+skinirritation;Dermatologique;Irritation cutanée
+skinproblem;Dermatologique;Problème dermatologique
+sorethroat;ORL;Mal de gorge
+stdcheck;Infectieux;Vérification d’IST/MST
+strokealert;Neurologique;Alerte AVC (accident vasculaire cérébral)
+suicidal;Psychiatrie;Idées ou comportement suicidaire
+suture_stapleremoval;Chirurgical;Ablation d’agrafes ou de points de suture
+swallowedforeignbody;Digestif;Ingestion de corps étranger
+syncope;Neurologique;Syncope (perte de connaissance brève)
+tachycardia;Cardiaque;Tachycardie
+testiclepain;Urologique;Douleur testiculaire
+thumbinjury;Traumatologique;Traumatisme du pouce
+tickremoval;Dermatologique/Traumatologie;Retrait de tique
+toeinjury;Traumatologique;Traumatisme de l’orteil
+toepain;Ostéo-articulaire;Douleur de l’orteil
+trauma;Traumatologique;Traumatologie
+unresponsive;Neurologique/Coma;Patient non réactif
+uri;ORL;Infection des voies respiratoires supérieures
+urinaryfrequency;Urologique;Pollakiurie (besoin fréquent d’uriner)
+urinaryretention;Urologique;Rétention urinaire
+urinarytractinfection;Urologique;Infection urinaire
+vaginalbleeding;Gynécologique;Métrorragie (saignement vaginal)
+vaginaldischarge;Gynécologique;Leucorrhée (pertes vaginales)
+vaginalpain;Gynécologique;Douleur vaginale
+weakness;Neurologique/Fatigue;Faiblesse
+wheezing;Respiratoire;Sifflement respiratoire (wheezing)
+withdrawal_alcohol;Psychiatrie/Intox;Sevrage alcoolique
+woundcheck;Chirurgical;Contrôle de plaie
+woundinfection;Infectieux;Infection de plaie
+woundre_evaluation;Chirurgical;Réévaluation d’une plaie
+wristinjury;Traumatologique;Traumatisme du poignet
+wristpain;Ostéo-articulaire;Douleur du poignet

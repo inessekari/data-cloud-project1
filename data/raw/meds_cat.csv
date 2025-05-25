@@ -1,0 +1,49 @@
+﻿medicament_code;medicament_label;classe_therapeutique
+analgesicandantihistaminecombination;Analgésique et Antihistaminique;Douleur/Allergie
+analgesics;Analgésique;Douleur
+anesthetics;Anesthésique;Anesthésie
+anti_obesitydrugs;Médicament anti-obésité;Métabolisme
+antiallergy;Antiallergique;Allergie
+antiarthritics;Antiarthritique;Rhumatologie/Douleur
+antiasthmatics;Antiasthmatique;Respiration
+antibiotics;Antibiotique;Anti-infectieux
+anticoagulants;Anticoagulant;Sang/Cœur
+antidotes;Antidote;Urgence/Toxicologie
+antifungals;Antifongique;Anti-infectieux
+antihistamineanddecongestantcombination;Antihistaminique + Décongestionnant;Allergie/ORL
+antihistamines;Antihistaminique;Allergie
+antihyperglycemics;Antidiabétique;Métabolisme
+antiinfectives;Anti-infectieux;Anti-infectieux
+antiinfectives_miscellaneous;Autre anti-infectieux;Anti-infectieux
+antineoplastics;Anticancéreux (Antinéoplasique);Cancer
+antiparkinsondrugs;Anti-parkinsonien;Système nerveux
+antiplateletdrugs;Antiplaquettaire;Sang/Cœur
+antivirals;Antiviral;Anti-infectieux
+autonomicdrugs;Médicament du système autonome;Système nerveux/Végétatif
+biologicals;Produit biologique;Divers/Immunité
+blood;Produits sanguins;Sang
+cardiacdrugs;Médicament cardiaque;Cœur
+cardiovascular;Médicament cardiovasculaire;Cœur/Vaisseaux
+cnsdrugs;Médicament système nerveux central;Syst. nerveux
+colonystimulatingfactors;Facteurs croissance cellulaire;Sang/Oncologie
+contraceptives;Contraceptif;Hormones/Reproduction
+cough_coldpreparations;Préparations toux-rhume;ORL/Rhume
+diagnostic;Produit diagnostic;Diagnostic
+diuretics;Diurétique;Rein/Cardiovasculaire
+eentpreps;Préparation EENT (ORL);ORL
+elect_caloric_h2o;Solution électrolytes/eau;Hydratation
+gastrointestinal;Gastro-intestinal;Digestion
+herbals;Produit naturel / Plante;Phytothérapie
+hormones;Hormones;Hormones
+immunosuppressants;Immunosuppresseur;Immunité
+investigational;Médicament en essai/expérimental;Non classé
+miscellaneousmedicalsupplies_devices_non_drug;Autre/Matériel médical;Non classé
+musclerelaxants;Myorelaxant;Système musculaire
+pre_natalvitamins;Vitamine/prénatal;Vitamines
+psychotherapeuticdrugs;Psychotrope;Système nerveux
+sedative_hypnotics;Sédatif/Hypnotique;Système nerveux
+skinpreps;Préparation pour la peau;Dermatologie
+smokingdeterrents;Sevrage tabagique;Dépendance
+thyroidpreps;Préparation thyroïdienne;Hormones/Thyroïde
+unclassifieddrugproducts;Produit non classé;Non classé
+vitamins;Vitamines;Vitamines

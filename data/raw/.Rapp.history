@@ -1,0 +1,38 @@
+# Définir le répertoire de travail où se trouve votre fichier .RData#
+setwd("/Users/ines/Desktop/Projet-cloud/data-cloud-project/data/raw/")#
+#
+# Charger le fichier .RData#
+load("5v_cleandf.rdata")#
+#
+# Vérifier les objets chargés#
+ls()#
+#
+write.csv(hospital_triage, file = "hospital_triage.csv", row.names = FALSE)
+# Définir le répertoire de travail où se trouve votre fichier .RData#
+> setwd("/Users/ines/Desktop/Projet-cloud/data-cloud-project/data/raw/")#
+> #
+> # Charger le fichier .RData#
+> load("5v_cleandf.rdata")#
+> #
+> # Vérifier les objets chargés#
+> ls()
+# Définir le répertoire de travail où se trouve votre fichier .RData#
+> setwd("/Users/ines/Desktop/Projet-cloud/data-cloud-project/data/raw/")#
+> #
+> # Charger le fichier .RData#
+> load("5v_cleandf.rdata")#
+> #
+> # Vérifier les objets chargés#
+> ls()
+# Définir le répertoire de travail où se trouve votre fichier .RData#
+> setwd("/Users/ines/Desktop/Projet-cloud/data-cloud-project/data/raw/")#
+> #
+> # Charger le fichier .RData#
+> load("5v_cleandf.rdata")#
+> #
+> # Vérifier les objets chargés#
+> ls()
+setwd("/Users/ines/Desktop/Projet-cloud/data-cloud-project/data/raw/")
+load("5v_cleandf.rdata")
+ls()
+write.csv(df, file = "df.csv", row.names = FALSE)
